@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888474674841",
+    "project_id": "movil2022bcarrito",
+    "storage_bucket": "movil2022bcarrito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888474674841:android:e7b23bb9fbedee242bba08",
+        "android_client_info": {
+          "package_name": "com.example.carrito_getx_03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888474674841-cr0d6bh254vlig3dpkopaota8p67atfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80SUTMz-Lu0HBll2BXDZOuMrpp1FqBro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888474674841-cr0d6bh254vlig3dpkopaota8p67atfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
