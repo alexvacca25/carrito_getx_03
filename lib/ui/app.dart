@@ -21,7 +21,7 @@ class App extends StatelessWidget {
         '/productos': (context) => const Producto(),
         '/carrito': (context) => const Carrtio(),
         '/loginf': (context) => const LoginF(),
-        '/artadd': (context) => const AddAritculos(),
+        '/artaddd': (context) => const AddAritculos(),
         '/artlist': (context) => const ListArticulos(),
       },
       home: const LoginF(),
