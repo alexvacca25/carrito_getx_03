@@ -24,7 +24,7 @@ class App extends StatelessWidget {
         '/artaddd': (context) => const AddAritculos(),
         '/artlist': (context) => const ListArticulos(),
       },
-      home: const LoginF(),
+      home: const Producto(),
     );
   }
 }
